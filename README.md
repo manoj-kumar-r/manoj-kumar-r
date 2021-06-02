@@ -10,7 +10,7 @@ I take pride in being a purely self-taught mobile (Android/IOS/Flutter) applicat
 - 💬 Ask me about android 
 
 #### Reach me at:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srishti_Rohatgi-informational?&style=for-the-badge&logo=LinkedIn&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/manoj-kumar-690b16ab/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Kumar-informational?&style=for-the-badge&logo=LinkedIn&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/manoj-kumar-690b16ab/)
 
  #### Github Stats:
   ![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=manoj-kumar-r&show_icons=true&theme=merko)
