@@ -7,7 +7,7 @@ I take pride in being a purely self-taught mobile (Android/IOS/Flutter) applicat
 - 🚧 Currently working on improving advanced Kotlin.
 - 🌱 Currently learning Flutter framework and RxJava.
 - 🤔 Looking for help with contributing more towards open source.
-- 💬 Ask me about android 
+- 💬 Ask me about Android/IOS/Flutter
 
 #### Reach me at:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Kumar-informational?&style=for-the-badge&logo=LinkedIn&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/manoj-kumar-690b16ab/)
