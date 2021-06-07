@@ -5,7 +5,7 @@
 I take pride in being a purely self-taught mobile (Android/IOS/Flutter) application developer and an avid learner.
 
 - 🚧 Currently working on improving advanced Kotlin.
-- 🌱 Currently learning Flutter framework and RxJava.
+- 🌱 Currently learning React framework, Flutter framework and RxJava.
 - 🤔 Looking for help with contributing more towards open source.
 - 💬 Ask me about Android/IOS/Flutter
 
